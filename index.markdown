@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![Image](img/Logo.PNG)
+![Image](img/PLFontLogo.PNG)
 <br>
 developed by Pico Lütjens
 <br>
