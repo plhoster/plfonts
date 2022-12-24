@@ -6,6 +6,6 @@ categories: jekyll update
 permalink: /Textmarkerwriting/
 ---
 
-![Image](../../../../../fontimg/Textmarkerwriting.png)
+![Image](../fontimg/Textmarkerwriting.png)
 <br>
-[Download Font](../../../../../fonts/Textmarkerwriting.zip)
+[Download Font](../fonts/Textmarkerwriting.zip)

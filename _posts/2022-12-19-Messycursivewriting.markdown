@@ -6,6 +6,6 @@ categories: jekyll update
 permalink: /Messycursivewriting/
 ---
 
-![Image](../../../../../fontimg/Messycursivewriting.png)
+![Image](../fontimg/Messycursivewriting.png)
 <br>
-[Download Font](../../../../../fonts/Messycursivewriting.zip)
+[Download Font](../fonts/Messycursivewriting.zip)

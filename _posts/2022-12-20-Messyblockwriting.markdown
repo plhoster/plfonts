@@ -6,6 +6,6 @@ categories: jekyll update
 permalink: /Messyblockwriting/
 ---
 
-![Image](../../../../../fontimg/Messyblockwriting.png)
+![Image](../fontimg/Messyblockwriting.png)
 <br>
-[Download Font](../../../../../fonts/Messyblockwriting.zip)
+[Download Font](../fonts/Messyblockwriting.zip)

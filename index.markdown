@@ -15,7 +15,7 @@ developed by Pico Lütjens
 These Fonts are designed for writing in german and basic english. They only include the absolute basics and may not support every Character you need.
 <br>
 <br>
-[Download all Fonts](../../../../../fonts/AllFonts.zip)
+[Download all Fonts](fonts/AllFonts.zip)
 <br>
 <br>
 <br>
