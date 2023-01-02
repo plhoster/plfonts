@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Outlined"
+title:  "Outlineriffled"
 date:   2023-01-01 22:29:03 +0100
 categories: jekyll update
-permalink: /Outlined/
+permalink: /Outlineriffled/
 ---
 
 ![Image](../fontimg/Outlineriffled.png)
